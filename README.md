@@ -1,2 +1,30 @@
-# knallpulver-test
-Coding test for new developers
+# Civitas developer test
+So you want to be a part of our team? Take this test and see if you have what it takes! 
+
+## Gettings started
+In this repository you will find a input.txt file with data. This file contains everything you need to know to proceed. Fork this repository and submit a link to your repository with code and answer to us on Discord. 
+
+## The challange
+
+Magish typically eat regular goat kebab, but he needs a lot of magical energy to be able to yell at people all day. For that he needs to rectrive his favorite snack that only grows deep in the jungle. Magish decideds to head out on a expedition into the jungle set by foot together with his amazing team. The jungle is too overgrown and difficult to navigate in vehicles or access from the air. 
+
+As Magish and the team approaches the jungle, he begin taking a look in their inventory with supplies. One important consideration is food - in particular, the number of calories Magish is carrying. 
+
+Magish writes down the number of calories contained by the various meals, snacks, rations, etc. that they brought with them, one item per line. Magish separates his own inventory from the teams inventory (if any) by a blank line.
+
+```
+1000
+2000
+3000
+
+4000
+
+5000
+6000
+```
+
+In case the Magish get hungry and need extra snacks, he need to know how many calories are being carried by the team member carrying the most calories. In the example above, this is 11000 (carried by the third member).
+
+Find the member carrying the most calories from the input file in this repository. How many total calories is that member carrying?
+
+_Happy deving_
