@@ -6,7 +6,7 @@ In this repository you will find a journey.txt file with data. This file contain
 
 ## The challange
 ### Part 1
-Magish typically eat regular goat kebab, but he needs a lot of magical energy to be able to yell at people all day. For that he needs to rectrive his favorite snack that only grows deep in the jungle. Magish decideds to head out on a expedition into the jungle set by foot together with his amazing team. The jungle is too overgrown and difficult to navigate in vehicles or access from the air. 
+Magish typically eat regular goat kebab, but he needs a lot of magical energy to be able to yell at people all day. For that he needs to receive his favorite snack that only grows deep in the jungle. Magish decides to head out on a expedition into the jungle set by foot together with his amazing team. The jungle is too overgrown and difficult to navigate in vehicles or access from the air. 
 
 As Magish and the team approaches the jungle, he begin taking a look in their inventory with supplies. One important consideration is food - in particular, the number of calories Magish is carrying. 
 
