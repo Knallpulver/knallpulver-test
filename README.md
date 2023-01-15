@@ -2,7 +2,7 @@
 So you want to be a part of our team? Take this test and see if you have what it takes! 
 
 ## Gettings started
-In this repository you will find a input.txt file with data. This file contains everything you need to know to proceed. Fork this repository and submit a link to your repository with code and answer to us on Discord. 
+In this repository you will find a journey.txt file with data. This file contains everything you need to know to proceed. Fork this repository and submit a link to your repository with code and answer to us on Discord. 
 
 ## The challange
 
