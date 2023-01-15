@@ -25,6 +25,8 @@ Magish writes down the number of calories contained by the various meals, snacks
 
 In case the Magish get hungry and need extra snacks, he need to know how many calories are being carried by the team member carrying the most calories. In the example above, this is 11000 (carried by the third member).
 
-Find the member carrying the most calories from the input file in this repository. How many total calories is that member carrying?
+Find the member carrying the most calories from the journey file in this repository. How many total calories is that member carrying?
+
+Submit a link to your repository with code and answer to us on Discord. 
 
 _Happy deving_
