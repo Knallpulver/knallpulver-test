@@ -32,7 +32,7 @@ By the time you calculate the answer to the last question, Magish realized that 
 
 To avoid this unacceptable situation, Magish would instead like to know the total calories carried by the top three members carrying the most calories. That way, even if one of those members runs out of snacks, they still have two backups.
 
-Find the top three members carrying the most calories. How many Calories are those mebers carrying in total?
+Find the top three members carrying the most calories. How many calories are those members carrying in total?
 
 Submit a link to your repository with code and answer to us on Discord. 
 
